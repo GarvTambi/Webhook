@@ -1,0 +1,10 @@
+{
+    "name": "@runkit/garvtambi_5f06556bcdb9bb001a9a6f62",
+    "version": "0.0.0-master",
+    "dependencies": {
+        "express": {
+            "version": "4.16.4",
+            "from": "https://registry.npmjs.org/express/-/express-4.16.4.tgz"
+        }
+    }
+}

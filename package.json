@@ -1,0 +1,11 @@
+{
+    "name": "@runkit/garvtambi_5f06556bcdb9bb001a9a6f62",
+    "version": "0.0.0-master",
+    "main": "./lib/5f06556bcdb9bb001a9a6f62",
+    "dependencies": {
+        "express": "4.16.4"
+    },
+    "scripts": {
+        "install": "node scripts/install.js"
+    }
+}
